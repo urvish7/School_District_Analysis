@@ -7,17 +7,19 @@ The school board is not aware about the whole records and unknown to full extent
 
 ## Initial Analysis
   In this Analysis the ninth-grade reading and math score are been replace with the NaN values as they seems to be manipulated. In order to make it possible we have filtered the data by the school name and grade by Thomas High school and 9th grade respectively then assigned the value equal to np.nan so that the data will change to NaN as shown in the figure.
-   ![Initial Analysis] (https://github.com/urvish7/School_District_Analysis/blob/main/Deliverable1.png)
+![Initial Analysis](https://github.com/urvish7/School_District_Analysis/blob/main/Deliverable1.png)
    
    
  ## Second Analysis 
   Tn this analysis the we are summarizing the multiple school data. Analyzing the data for all the schools then sorting them on the base of performance. few tasks that we are fetching in particular inorder to have a general idea about the data such as :
 - Sorting the top 5 schools on passing rate.
+![Top 5 Schools](https://github.com/urvish7/School_District_Analysis/blob/main/Top5schools.png)
 - Sorting the bottom 5 schools on the passing rate.
+![Bootom 5 School](https://github.com/urvish7/School_District_Analysis/blob/main/Bottom5schools.png)
 - Average math score for each grade level for each school.
 - Average reading score for each grade level from each school.
 - The school spending per student, by school size and by school type.
-
+![Overall inclusion](https://github.com/urvish7/School_District_Analysis/blob/main/Byentitysorting.png)
 # Results:
    The district summary and school summary are been affected slightly as most of the data is been covered by the other schools. some of the data have slight drop while some have slight inclination.
    
